@@ -1,6 +1,6 @@
 # Copy of Mandelbrot opencl sample with DE0NANO on RocketBoard repository.  
   
-[OverViewDE0NANO+adafroutes](https://rocketboards.org/foswiki/pub/Projects/OpenCLMandelbrotDemoOnAtlasSoC/igp_95920881a51d3ad911c68b244fd02b42_running_board_with_hand.JPG)  
+[OverViewDE0NANO+adafroutes](https://github.com/k5iogura/MandelbrotOnDE0NANO/Overview.jpg)  
   
 *Build system requirements*  
   
